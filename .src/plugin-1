@@ -1,0 +1,4 @@
+plugins {
+    // we don’t need to *apply* the plugin to the root project, do we?
+    id 'pmd'
+}
